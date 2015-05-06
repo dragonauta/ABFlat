@@ -1,0 +1,143 @@
+Woodwind Tablature - Saxophone - Euro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Key Caps information
+^^^^^^^^^^^^^^^^^^^^
+
+The tablature system used in this font has been based upon that outlined
+by Jean-Marie Londeix in his book, "HELLO!  Mr. SAX".
+
+The symbols and keys used on the tablature will automatically place
+themselves in the correct place if they are entered as one 'unit', e.g.
+
+     `vTj will give:
+
+     8va
+       o
+       o
+       o
+      ---
+   Ta  o
+       o
+       o
+
+
+Basic Keys:
+^^^^^^^^^^^
+Press ` (i.e. the key with the ~) to get the blank tablature, then press
+the numbers to 'fill in' the holes.
+
+           o   <- 1
+           o   <- 2
+           o   <- 3
+          ---
+           o   <- 4
+           o   <- 5
+           o   <- 6
+
+Press shift+number to get 1/2 holes.
+
+Press option+number (Macintosh only) to get shaded holes (/).
+
+Other Keys:
+^^^^^^^^^^^
+v or 8 = 8va
+x = front key
+P or p = P
+. = . between holes 1 & 2
+
+b = B to the right of the tablature
+B = Bb to the right of the tablature
+G = G# to the right of the tablature
+C = C# to the right of the tablature
+
+D = D# below the tablature
+E = Eb below the tablature
+c = C below the tablature
++ = D#+C below the tablature
+
+T = T
+j = a (as in Ta)
+k = c (as in Tc)
+l = f (as in Tf)
+
+A = A to the left of the tablature
+
+q = C1
+w = C2
+e = C3
+r = C4
+t = C5
+
+
+
+Woodwind Tablature - SaxUS
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Key Caps information
+^^^^^^^^^^^^^^^^^^^^
+
+The tablature system used in this font has been based upon that outlined
+by Larry Teal in his book, "The Art of Saxophone Playing", and on those
+of Roland Caravan.
+
+The symbols used on the tablature will automatically place themselves in
+the correct place if they are entered as one 'unit', e.g.
+
+     `vFc will give:
+
+     8va
+       o
+       o
+       o
+      ---
+       o
+       o
+    F# o
+       C
+
+Basic Keys:
+^^^^^^^^^^^
+Press ` (i.e. the key with the ~) to get the blank tablature, then press
+the numbers to 'fill in' the holes.
+
+           o   <- 1
+           o   <- 2
+           o   <- 3
+          ---
+           o   <- 4
+           o   <- 5
+           o   <- 6
+
+Press shift+number to get 1/2 holes.
+
+Press option+number (Macintosh only) to get shaded holes (/).
+
+Other Keys:
+^^^^^^^^^^^
+v or 8 = 8va
+x = front key
+. = . between holes 1 & 2
+
+y = Eb at the upper right of the tablature
+d = D at the upper right of the tablature
+f = F at the upper right of the tablature
+
+b = B to the right of the tablature (keys in the middle of the sax)
+B = Bb to the right of the tablature
+G = G# to the right of the tablature
+C = C# to the right of the tablature
+
+e = E to the left of the tablature
+r = C to the left of the tablature
+t = Bb to the left of the tablature
+F = F# to the left of the tablature (fork key)
+
+D = D# below the tablature (bottom of sax)
+E = Eb below the tablature
+c = C below the tablature
++ = D#+C below the tablature
+
+This font is interchangable with the font - WoodwindTablatureSaxGraphic.
+ This means that you can enter the enter keystrokes in one font, and
+simply and change font to the other, keeping the same fingering.
+
+(c) Matthew Hindson, 1997.
