@@ -9,7 +9,7 @@ Also includes [Ultra Flat Remix icon set](http://the-ilife.com/post/127)
 
 For better integration and fast deployment, includes a tint2 configuration and dmenu-bind.sh color matching.
 
-Check out the [demo screenshot](https://raw.githubusercontent.com/dragonauta/ABFlatTheme/master/abflattheme-test.jpg).
+Check out the [demo screenshot](https://raw.githubusercontent.com/dragonauta/ABFlat/master/abflattheme-test.jpg).
 
 #### Installation
 git clone into your $HOME directory 
